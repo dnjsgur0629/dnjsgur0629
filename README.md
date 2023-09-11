@@ -1,7 +1,10 @@
-### Hi there 👋
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnjsgur0629)](https://github.com/anuraghazra/github-readme-stats)
 
+Core: React, TypeScript, Next.js
+State Management: Recoil, SWR
+Styling: Emotion
+Package Manager: NPM
+Build: Webpack, Babel
 <!--
 **dnjsgur0629/dnjsgur0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
