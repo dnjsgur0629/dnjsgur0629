@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnjsgur0629)](https://github.com/anuraghazra/github-readme-stats)
-
 Core: React, TypeScript, Next.js</br>
 State Management: Recoil, SWR </br>
 Styling: Emotion </br>
